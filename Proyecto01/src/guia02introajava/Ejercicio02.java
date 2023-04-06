@@ -1,6 +1,6 @@
 /* Escribir un programa que pida tu nombre, lo guarde en una variable y lo muestre por pantalla. */
 
-package guia02;
+package guia02introajava;
 
 import java.util.Scanner;
 

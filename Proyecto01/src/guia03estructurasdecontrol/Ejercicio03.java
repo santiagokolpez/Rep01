@@ -3,7 +3,7 @@
     un mensaje por pantalla que diga “CORRECTO”, 
     en caso contrario, se deberá imprimir “INCORRECTO”. 
     Nota: investigar la función Lenght() en Java. */
-package guia03;
+package guia03estructurasdecontrol;
 
 import java.util.Scanner;
 

@@ -1,5 +1,5 @@
     /*Crear un programa que dado un número determine si es par o impar. */
-package guia03;
+package guia03estructurasdecontrol;
 
 import java.util.Scanner;
 

@@ -3,12 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package guia03;
+package guia04subprogramas;
 
 /**
  *
  * @author Administrador
  */
-public class Ejercicio04 {
+public class Ejercicio01 {
     
 }
